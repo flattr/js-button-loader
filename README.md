@@ -13,8 +13,8 @@ We provide this script for the sake of transparency as the one we host is minifi
 # Include in your site
 
 ```html
-&lt;script type="text/javascript"&gt;
-/* &lt;![CDATA[ */
+<script type="text/javascript">
+/* <![CDATA[ */
 (function() {
     var s = document.createElement('script');
     var t = document.getElementsByTagName('script')[0];
@@ -25,8 +25,8 @@ We provide this script for the sake of transparency as the one we host is minifi
 
     t.parentNode.insertBefore(s, t);
  })();
-/* ]]&gt; */
-&lt;/script&gt;
+/* ]]> */
+</script>
 ```
 
 # License
