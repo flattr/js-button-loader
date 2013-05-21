@@ -25,6 +25,7 @@ var FlattrLoader = {
 		iframe.setAttribute('height', (compact == true ? 20 : 62) );
 		iframe.setAttribute('frameBorder', 0);
 		iframe.setAttribute('scrolling', 'no');
+		iframe.setAttribute('title', 'Flattr');
 		iframe.setAttribute('border', 0);
 		iframe.setAttribute('marginHeight', 0);
 		iframe.setAttribute('marginWidth', 0);
